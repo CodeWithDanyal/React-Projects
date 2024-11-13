@@ -40,8 +40,8 @@ This project is a React-based application that demonstrates the use of theming f
 
 ## Preview
 
-![Light Mode Preview](public/Screenshot%20(91).png)  
-![Dark Mode Preview](public/Screenshot%20(92).png)
+![Light Mode Preview](<public/Screenshot%20(91).png>)  
+![Dark Mode Preview](<public/Screenshot%20(92).png>)
 
 ## Usage
 
@@ -49,5 +49,5 @@ To run the app locally:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:CodeWithDanyal/React-Projects.git
    ```
